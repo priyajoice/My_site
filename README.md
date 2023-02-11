@@ -1,2 +1,2 @@
 # My_site
-Personal site
+My profile 
